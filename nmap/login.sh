@@ -12,11 +12,13 @@ if [ $Net = 172.16 ];then
 else
 	exit 0
 fi
+cd /home/labulaka/github/shell-hosts/nmap
+
 while true
 do
  	ping -w 3 -c 3 www.baidu.com >/dev/null 2>&1
 	if [ $? -eq 0 ];then
-		echo "internet success"
+		echo success
 		sleep 10
 	else
 	user=`shuf -n1 usernum`
