@@ -18,7 +18,6 @@ while true
 do
  	ping -w 3 -c 3 www.baidu.com >/dev/null 2>&1
 	if [ $? -eq 0 ];then
-		echo success
 		sleep 10
 	else
 	user=`shuf -n1 usernum`
