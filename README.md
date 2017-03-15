@@ -57,6 +57,7 @@
 # shadowsocks 文件夹
 **ss 随机选取配置文件登录**
 **请将ss配置文件保存为后缀为json文件并保存在主目录下shadowsocks中**
-
+# net-speeder
+`apt update;apt install wget -y;wget https://raw.githubusercontent.com/labulaka521/shell-hosts/master/net-speeder/net-speeder.sh && sh net-speeder.sh`
 
 # 郑重声明 脚本只供学习交流，请勿做违法事情，一旦发生任何事，都与本人无关!!
