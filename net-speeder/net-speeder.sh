@@ -12,6 +12,6 @@ cd net-speeder-master/
 sh build.sh -DCOOKED
 nohup ./net_speeder eth0 "ip" &
 cd
-wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-go.sh
+wget --no-check-certificate https://raw.githubusercontent.com/labulaka521/shell-hosts/master/net-speeder/shadowsocks-go.sh
 chmod +x shadowsocks-go.sh
-./shadowsocks-go.sh 2>&1 | tee shadowsocks-go.log
+./shadowsocks-go.sh

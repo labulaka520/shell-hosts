@@ -143,8 +143,8 @@ pre_install(){
     fi
     # Set shadowsocks-go config password
     #echo "Please input passwdord for shadowsocks-go:"
-    shadowsockspwd ="109097"
-	shadowsocksport ="8989"
+    shadowsockspwd="109097"
+    shadowsocksport="1997"
     #[ -z "${shadowsockspwd}" ] && shadowsockspwd="teddysun.com"
     #echo
     #echo "---------------------------"
