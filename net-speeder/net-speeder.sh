@@ -5,7 +5,7 @@
 # Created Time: 2017-03-15
 
 
-apt-get install libpcap0.8 libnet1-dev  libpcap0.8-dev libnet1 gcc -y
+apt-get install libpcap0.8 libnet1-dev  libpcap0.8-dev libnet1 gcc unzip -y
 wget https://github.com/snooda/net-speeder/archive/master.zip
 unzip master.zip
 cd net-speeder-master/
