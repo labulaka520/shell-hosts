@@ -41,8 +41,7 @@
 
 # shadowsocks 文件夹
 
-**随机选取ss账号登录**
-**检测ss网速，请安装proxychains4**
+**获取ss账号登录**
 # net-speeder
 **部署ss**
 `apt update;apt install wget -y;wget https://raw.githubusercontent.com/labulaka521/shell-hosts/master/net-speeder/net-speeder.sh && sh net-speeder.sh`
