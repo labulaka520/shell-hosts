@@ -9,13 +9,13 @@ n=0
 URL_ss=https://labulaka.arukascloud.io/
 ss_pid=`ps -ef|grep -v grep|grep sslocal|awk '{print $2}'`
 
-curl -I $URL_ss
+curl -I $URL_ss >/dev/null 2>&1
 if [ $? -ne 0 ];then
 	echo "please check interner"
 	exit 0
 fi
 
-if [ -n $ss_pid ];then
+if [ -n "$ss_pid" ];then
 	kill $ss_pid
 fi
 
@@ -32,5 +32,12 @@ let n=n+1
 done
 
 i=`echo $((RANDOM))|cut -b 2`
-nohup sslocal -s ${ss_IP[($i)]} -p ${ss_PORT[($i)]} -b 127.0.0.1 -l 1080 -k labulaka.me -m aes-256-cfb >/dev/null 2>&1 &
+nohup sslocal -s ${ss_IP[($i)]} -p ${ss_PORT[($i)]} -b 127.0.0.1 -l 1080 -k labulaka.me -m aes-256-cfb >/dev/null 2>&1 & 
+if [ $? -eq 0 ];then
+	echo "connection success! "
+	echo "PID: $ss_pid"
+else
+	echo "connection fail!"
+fi
+	
 
