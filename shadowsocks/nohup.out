@@ -561,3 +561,63 @@
 2017-03-26 23:17:16 ERROR    [Errno 104] Connection reset by peer
 2017-03-26 23:17:16 ERROR    [Errno 104] Connection reset by peer
 2017-03-26 23:17:16 INFO     connecting clients4.google.com:443 from 127.0.0.1:44172
+2017-03-26 23:20:00 INFO     connecting www.gstatic.com:443 from 127.0.0.1:44196
+2017-03-26 23:20:00 INFO     connecting www.gstatic.com:443 from 127.0.0.1:44200
+2017-03-26 23:20:02 INFO     connecting mail.google.com:443 from 127.0.0.1:44204
+2017-03-26 23:20:05 INFO     connecting ssl.gstatic.com:443 from 127.0.0.1:44208
+2017-03-26 23:20:05 INFO     connecting ssl.gstatic.com:443 from 127.0.0.1:44212
+2017-03-26 23:20:05 INFO     connecting ssl.gstatic.com:443 from 127.0.0.1:44216
+2017-03-26 23:20:05 INFO     connecting ssl.gstatic.com:443 from 127.0.0.1:44220
+2017-03-26 23:20:05 INFO     connecting ssl.gstatic.com:443 from 127.0.0.1:44222
+2017-03-26 23:20:05 INFO     connecting ssl.gstatic.com:443 from 127.0.0.1:44228
+2017-03-26 23:20:06 INFO     connecting clients2.google.com:443 from 127.0.0.1:44232
+2017-03-26 23:20:06 INFO     connecting clients5.google.com:443 from 127.0.0.1:44236
+2017-03-26 23:20:06 INFO     connecting lh3.googleusercontent.com:443 from 127.0.0.1:44240
+2017-03-26 23:20:06 INFO     connecting 1.bp.blogspot.com:443 from 127.0.0.1:44244
+2017-03-26 23:20:06 INFO     connecting play.google.com:443 from 127.0.0.1:44246
+2017-03-26 23:20:06 INFO     connecting plus.google.com:443 from 127.0.0.1:44248
+2017-03-26 23:20:06 INFO     connecting apis.google.com:443 from 127.0.0.1:44256
+2017-03-26 23:20:08 INFO     connecting accounts.google.com:443 from 127.0.0.1:44260
+2017-03-26 23:20:08 INFO     connecting clients6.google.com:443 from 127.0.0.1:44264
+2017-03-26 23:20:09 INFO     connecting clients1.google.com:443 from 127.0.0.1:44268
+2017-03-26 23:20:10 INFO     connecting hangouts.google.com:443 from 127.0.0.1:44274
+2017-03-26 23:20:10 INFO     connecting 0.client-channel.google.com:443 from 127.0.0.1:44278
+2017-03-26 23:20:10 INFO     connecting clients4.google.com:443 from 127.0.0.1:44280
+2017-03-26 23:20:10 INFO     connecting lh4.googleusercontent.com:443 from 127.0.0.1:44282
+2017-03-26 23:20:10 INFO     connecting lh5.googleusercontent.com:443 from 127.0.0.1:44284
+2017-03-26 23:20:10 INFO     connecting people-pa.clients6.google.com:443 from 127.0.0.1:44286
+2017-03-26 23:20:10 INFO     connecting hangouts.google.com:443 from 127.0.0.1:44298
+2017-03-26 23:20:10 INFO     connecting hangouts.google.com:443 from 127.0.0.1:44302
+2017-03-26 23:20:12 ERROR    [Errno 104] Connection reset by peer
+2017-03-26 23:20:12 INFO     connecting notifications.google.com:443 from 127.0.0.1:44326
+2017-03-26 23:20:12 INFO     connecting clients6.google.com:443 from 127.0.0.1:44336
+2017-03-26 23:20:12 ERROR    [Errno 104] Connection reset by peer
+2017-03-26 23:20:12 INFO     connecting clients6.google.com:443 from 127.0.0.1:44340
+2017-03-26 23:21:07 ERROR    [Errno 104] Connection reset by peer
+2017-03-26 23:21:09 ERROR    [Errno 104] Connection reset by peer
+2017-03-26 23:21:09 ERROR    [Errno 104] Connection reset by peer
+2017-03-26 23:21:09 ERROR    [Errno 104] Connection reset by peer
+2017-03-26 23:21:09 ERROR    [Errno 104] Connection reset by peer
+2017-03-26 23:21:09 ERROR    [Errno 104] Connection reset by peer
+2017-03-26 23:21:09 ERROR    [Errno 104] Connection reset by peer
+2017-03-26 23:21:09 ERROR    [Errno 104] Connection reset by peer
+2017-03-26 23:21:09 ERROR    [Errno 104] Connection reset by peer
+2017-03-26 23:21:09 ERROR    [Errno 104] Connection reset by peer
+2017-03-26 23:21:09 ERROR    [Errno 104] Connection reset by peer
+2017-03-26 23:21:09 ERROR    [Errno 104] Connection reset by peer
+2017-03-26 23:21:09 INFO     connecting mail.google.com:443 from 127.0.0.1:44416
+2017-03-26 23:21:11 INFO     connecting www.google.com:443 from 127.0.0.1:44422
+2017-03-26 23:21:11 INFO     connecting 0.client-channel.google.com:443 from 127.0.0.1:44426
+2017-03-26 23:21:11 INFO     connecting clients4.google.com:443 from 127.0.0.1:44428
+2017-03-26 23:21:11 INFO     connecting lh4.googleusercontent.com:443 from 127.0.0.1:44430
+2017-03-26 23:21:13 INFO     connecting google.com:443 from 127.0.0.1:44442
+2017-03-26 23:21:23 ERROR    [Errno 104] Connection reset by peer
+2017-03-26 23:21:23 ERROR    [Errno 104] Connection reset by peer
+2017-03-26 23:21:23 INFO     connecting lh5.googleusercontent.com:443 from 127.0.0.1:44448
+2017-03-26 23:21:24 INFO     connecting 0.client-channel.google.com:443 from 127.0.0.1:44452
+2017-03-26 23:22:16 INFO     connecting connect.facebook.net:443 from 127.0.0.1:44496
+2017-03-26 23:22:16 INFO     connecting www.facebook.com:443 from 127.0.0.1:44508
+2017-03-26 23:28:59 INFO     connecting clients4.google.com:443 from 127.0.0.1:44836
+2017-03-26 23:29:04 INFO     connecting clients4.google.com:443 from 127.0.0.1:44840
+2017-03-26 23:29:04 INFO     connecting mtalk.google.com:443 from 127.0.0.1:44842
+2017-03-26 23:29:04 INFO     connecting clients4.google.com:443 from 127.0.0.1:44846
